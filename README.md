@@ -28,6 +28,7 @@ By uploading and processing these documents during the first build, the service 
 
 ## Installation
 - Copy .env.sample to .env and replace OPENAI_API_KEY
+- Application runs on port 8080, make sure it's not taken
 - Run command:
 ```sh
 make build-run
@@ -40,7 +41,7 @@ make stop
 
 First build can take some time, please make sure you see following logs before testing:
 ```sh
-INFO:     Started server process [9]
+INFO:     Started server process [N]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 ```
