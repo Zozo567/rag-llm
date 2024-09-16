@@ -1,5 +1,4 @@
 from app.apps.generator.schema import InGenerator, Reference, GeneratorSchema
-
 from app.configurations import rag_chain
 
 
