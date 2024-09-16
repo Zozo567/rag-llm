@@ -1,0 +1,10 @@
+nltk
+requests
+langchain-community
+pypdf
+langchain-openai
+pydantic
+fastapi
+uvicorn
+python-dotenv
+langchain-chroma
