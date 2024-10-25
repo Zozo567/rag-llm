@@ -22,6 +22,7 @@ During the initial build of the service, a set of foundational documents are upl
 By uploading and processing these documents during the first build, the service ensures it’s ready for immediate use, allowing users to interact with the Q&A system without delay.
 
 
+
 ## Requirements
 - Docker
 - OpenAI api key
